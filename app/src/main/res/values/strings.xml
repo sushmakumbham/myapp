@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="SignInTitle">SignInTitle</string>
+    <string name="SignInButtonText">Button</string>
+</resources>
